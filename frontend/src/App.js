@@ -1,8 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Temp from "./Components/weather/temp";
+
 
 function App() {
-  return 
+  return (
+    <>
+    <Temp />
+    </>
+  );
 }
 
 export default App;
