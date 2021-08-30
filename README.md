@@ -1,1 +1,2 @@
-Weather app installation `npm init react-app frontend`
+Weather app installation <br>
+`npm init react-app frontend`
