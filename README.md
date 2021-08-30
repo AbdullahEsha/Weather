@@ -1,1 +1,1 @@
-# Weather app installation `npm init react-app my-app`
+Weather app installation `npm init react-app my-app`
