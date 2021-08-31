@@ -63,7 +63,7 @@ const Temp = () => {
         </div>
       </div>
 
-      {/* our temp card  */}
+      {/* temp card  */}
       <WeatherCard {...tempInfo} />
     </>
   );
