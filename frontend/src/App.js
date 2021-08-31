@@ -5,7 +5,7 @@ import Temp from "./Components/weather/temp";
 function App() {
   return (
     <Router>
-      <Route path="/" component={Temp} exact />
+      <Route path="/weather" component={Temp} exact />
     </Router>
   );
 }
